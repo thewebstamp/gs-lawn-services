@@ -64,7 +64,7 @@ export const services: Service[] = [
     ],
     "ctaLabel": "Get a Lawn Care Estimate",
     "image": {
-      "src": "/images/lawn-care-card.jpg",
+      "src": "/images/lawn-care-card2.jpg",
       "alt": "Lawn mowing in progress in Murfreesboro, TN"
     },
     "detailImage": {
@@ -96,7 +96,7 @@ export const services: Service[] = [
     ],
     "ctaLabel": "Get a Maintenance Estimate",
     "image": {
-      "src": "/images/landscape-maintenance-card.jpg",
+      "src": "/images/lawn-care-card1.jpg",
       "alt": "Landscape bed maintenance in progress"
     },
     "detailImage": {
@@ -160,7 +160,7 @@ export const services: Service[] = [
     ],
     "ctaLabel": "Get a Cleanup Estimate",
     "image": {
-      "src": "/images/fall-cleanup-card.jpg",
+      "src": "/images/fall-cleanup-card1.jpg",
       "alt": "Fall leaf cleanup in progress"
     },
     "detailImage": {

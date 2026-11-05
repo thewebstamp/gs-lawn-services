@@ -18,16 +18,16 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "GS Lawn Services LLC | Murfreesboro, TN Lawn Care & Landscaping",
     description: "Family-owned lawn care, landscape maintenance, and seasonal cleanups for Murfreesboro, Smyrna, La Vergne, Nashville, Brentwood, and Franklin, TN. Free estimates.",
-    images: ["/images/home-hero.jpg"],
+    images: ["/images/home-hero1.jpg"],
   },
 };
 
 const heroImage = {
-  "src": "/images/home-hero.jpg",
+  "src": "/images/home-hero1.jpg",
   "alt": "GS Lawn Services crew mowing a lawn in Murfreesboro, TN"
 };
 const breakOne = {
-  "src": "/images/work-break-1.jpg",
+  "src": "/images/home-hero.jpg",
   "alt": "The GS Lawn Services crew at work on a Murfreesboro property"
 };
 const breakTwo = {
@@ -36,19 +36,19 @@ const breakTwo = {
 };
 const featured = [
   {
-    "src": "/images/featured-1.jpg",
+    "src": "/images/featured-01.jpg",
     "alt": "Freshly mowed and edged lawn in Murfreesboro"
   },
   {
-    "src": "/images/featured-2.jpg",
+    "src": "/images/featured-02.jpg",
     "alt": "Neatly trimmed hedge line"
   },
   {
-    "src": "/images/featured-3.jpg",
+    "src": "/images/featured-03.jpg",
     "alt": "Yard cleared of fall leaves before frost"
   },
   {
-    "src": "/images/featured-4.jpg",
+    "src": "/images/featured-04.jpg",
     "alt": "Front yard curb appeal refresh"
   }
 ];
